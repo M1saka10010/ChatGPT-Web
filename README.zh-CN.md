@@ -60,11 +60,11 @@
 ![image](https://cdn.staticaly.com/gh/yzh990918/static@master/20230310/image.5fhfouap270g.webp)
 
 
-2. 选择要部署的分支，选择 `main`， 在项目设置中配置环境变量，环境变量配置参考下文。
+2. 选择要部署的分支，选择 `main` 分支， 在项目设置中配置环境变量，环境变量配置参考下文。
 
 ![image](https://cdn.staticaly.com/gh/yzh990918/static@master/20230310/image.6dvtfmoijb7k.webp)
 
-3. 选择默认的构建命令和输出目录，单击`Deploy Site`按钮开始部署站点。
+3. 选择默认的构建命令和输出目录，单击 `Deploy Site` 按钮开始部署站点。
 
 ![image](https://cdn.staticaly.com/gh/yzh990918/static@master/20230310/image.e0n7c0zaen4.webp)
 
@@ -94,10 +94,6 @@ A: 配置环境变量 `HTTPS_PROXY`，参考: https://github.com/ddiu8081/chatgp
 Q: throw new TypeError(${context} is not a ReadableStream.)
 
 A: Node 版本需要在 `v18` 或者更高，参考: https://github.com/ddiu8081/chatgpt-demo/issues/65
-
-## 创意变体版本
-
-- [ourongxing/chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel)
 
 ## 参与贡献
 
